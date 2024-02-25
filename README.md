@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Januda Abeysinghe</h1>
 <h3 align="center">An undergraduate with a passion in Game Development</h3>
 
-- 🌱 I’m currently learning **Asp.Net Core, Unity Engine 6, React Native**
+- 🌱 I’m currently learning **Unity Engine , React Native, Flutter**
 
 - 📫 How to reach me **januda2015@gmail.com**
 
